@@ -31,6 +31,9 @@ public class UITestingTextInput extends Common {
         click(button);
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
     }
+    /*public void doubleClickInput() {
+        click
+    }*/
 
 
 }
