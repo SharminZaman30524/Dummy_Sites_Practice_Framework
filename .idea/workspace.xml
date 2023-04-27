@@ -5,46 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66e95eb1-49c6-49e0-80c8-1fbd6e433354" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/driver/ChromeDriver/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/automation_testing_pages/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/automation_testing_webelements/AutomationTestingWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/Common.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo_qa_pages/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo_qa_webelements/DemoQAWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/orange_hrm_pages/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/orange_hrm_webelements/OrangeHRMWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rahul_shetty_pages/RahulShettyPracticePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rahul_shetty_webelements/RahulShettyWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reporting/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reporting/TestLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sauce_demo_pages/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sauce_demo_webelements/SauceDemoWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uitesting_pages/UITestingTextInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uitesting_webelements/UITestingWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/ReadExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automationtesting/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/demoqa/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/orangehrm/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/rahulshetty/TestInputCountry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/saucelabs/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uitesting/TestInputButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestAutomationPractice.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestDemoQA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestOrangeHRM.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestRahulShetty.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestSauceLab.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestUITesting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Sharmin Zaman/IdeaProjects/Dummy_Sites_Practice_Framework"
+    "last_opened_file_path": "C:/Users/mehna/Dummy_Sites_Practice_Framework"
   }
 }]]></component>
   <component name="RecentsManager">
