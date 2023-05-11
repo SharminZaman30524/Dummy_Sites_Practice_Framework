@@ -1,5 +1,6 @@
 package utility;
 
+import io.netty.util.internal.ObjectCleaner;
 import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
@@ -17,6 +18,7 @@ public class ReadExcelFile {
             File.separator+ "resources" +
             File.separator + "TestData.xlsx";
     //src/test/resources/TestData.xlsx
+    //src/test/resources/TestPromptData.xlsx
     public static FileInputStream fis;
     public static XSSFWorkbook xssfWorkbook;
     public static XSSFSheet sheet;
@@ -35,8 +37,8 @@ public class ReadExcelFile {
         return data;
     }
 
-    public static List<String> getAllColValue(String sheetName, int col) {
-        List<String> data = new ArrayList<>();
+    public static List<Object> getAllColValue(String sheetName, int col) {
+        List<Object> data = new ArrayList<>();
         try {
             fis = new FileInputStream(path);
             xssfWorkbook = new XSSFWorkbook(fis);
@@ -81,7 +83,7 @@ public class ReadExcelFile {
         int numRow = sheet.getLastRowNum();
         int numCol = sheet.getRow(0).getLastCellNum();
         String[][] data = new String[numRow][numCol];
-        for(int i = 1; i <=numRow; i ++){
+        for(int i = 1; i <=numRow; i ++){ //Start at row number 1, in case of header at row 0
             for(int j = 0; j < numCol; j ++){
                 data[i-1][j] =  dataFormatter.formatCellValue(sheet.getRow(i).getCell(j));
             }
@@ -90,7 +92,8 @@ public class ReadExcelFile {
     }
 
     public static void main(String[] args) {
-        System.out.println(getValueFromCell("ProgressiveData",1,0));
+
+        System.out.println(getValueFromCell("OrangeHRMSearches",1,0));
     }
 
 }

@@ -5,46 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66e95eb1-49c6-49e0-80c8-1fbd6e433354" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/driver/ChromeDriver/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/automation_testing_pages/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/automation_testing_webelements/AutomationTestingWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/Common.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo_qa_pages/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo_qa_webelements/DemoQAWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/orange_hrm_pages/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/orange_hrm_webelements/OrangeHRMWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rahul_shetty_pages/RahulShettyPracticePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rahul_shetty_webelements/RahulShettyWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reporting/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reporting/TestLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sauce_demo_pages/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sauce_demo_webelements/SauceDemoWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uitesting_pages/UITestingTextInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uitesting_webelements/UITestingWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/ReadExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automationtesting/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/demoqa/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/orangehrm/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/rahulshetty/TestInputCountry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/saucelabs/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uitesting/TestInputButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestAutomationPractice.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestDemoQA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestOrangeHRM.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestRahulShetty.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestSauceLab.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestUITesting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/GeckoDriver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demo_qa_pages/DemoQaAlerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demo_qa_pages/DemoQaInteractions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learn_sliders/com/Apartments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/orange_hrm_pages/OrangeHRMHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/orange_hrm_pages/OrangeHRMLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/data_providers/DataProviders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/demoqa/TestDemoQaAlerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/demoqa/TestDemoQaInteractions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/learn_sliders/TestRentCalculatorSlider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/orangehrm/TestAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/orangehrm/TestSearchBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/rahulshetty/LearnDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/rahulshetty/TestRSWebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/TestPromptData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/Common.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo_qa_webelements/DemoQAWebElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo_qa_webelements/DemoQAWebElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/orange_hrm_webelements/OrangeHRMWebElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/orange_hrm_webelements/OrangeHRMWebElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rahul_shetty_pages/RahulShettyPracticePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rahul_shetty_pages/RahulShettyPracticePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rahul_shetty_webelements/RahulShettyWebElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rahul_shetty_webelements/RahulShettyWebElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utility/ReadExcelFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utility/ReadExcelFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/TestData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/TestDemoQA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestDemoQA.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/TestOrangeHRM.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestOrangeHRM.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/TestRahulShetty.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestRahulShetty.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/TestSauceLab.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestSauceLab.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +63,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Sharmin Zaman/IdeaProjects/Dummy_Sites_Practice_Framework"
+    "last_opened_file_path": "C:/Users/mehna/OneDrive/Desktop/OrangeHrm/orange-HRM",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mehna\Dummy_Sites_Practice_Framework\driver\FireFoxDriver" />
+      <recent name="C:\Users\mehna\Dummy_Sites_Practice_Framework\src\test\resources" />
       <recent name="C:\Users\Sharmin Zaman\IdeaProjects\Dummy_Sites_Practice_Framework" />
       <recent name="C:\Users\Sharmin Zaman\IdeaProjects\Dummy_Sites_Practice_Framework\src\main\java" />
     </key>
@@ -87,10 +78,25 @@
       <recent name="C:\Users\Sharmin Zaman\IdeaProjects\Dummy_Sites_Practice_Framework\src\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="rahulshetty" />
       <recent name="base" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Sharmin Zaman/IdeaProjects/Dummy_Sites_Practice_Framework/src/test/resources/TestUITesting.xml">
+  <component name="RunManager" selected="TestNG.TestRentCalculatorSlider.testRentCalculatorSlider">
+    <configuration name="RahulShettyPracticePage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rahul_shetty_pages.RahulShettyPracticePage" />
+      <module name="Dummy_Sites_Practice_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rahul_shetty_pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/Sharmin Zaman/IdeaProjects/Dummy_Sites_Practice_Framework/src/test/resources/TestRahulShetty.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Dummy_Sites_Practice_Framework" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestRahulShetty.xml" />
@@ -101,10 +107,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Sharmin Zaman/IdeaProjects/Dummy_Sites_Practice_Framework/src/test/resources/TestUITesting.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/mehna/Dummy_Sites_Practice_Framework/src/test/resources/TestOrangeHRM.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Dummy_Sites_Practice_Framework" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestUITesting.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestOrangeHRM.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RahulShettyPracticePage.testPrices" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Dummy_Sites_Practice_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rahul_shetty_pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rahul_shetty_pages" />
+      <option name="MAIN_CLASS_NAME" value="rahul_shetty_pages.RahulShettyPracticePage" />
+      <option name="METHOD_NAME" value="testPrices" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRentCalculatorSlider.testRentCalculatorSlider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Dummy_Sites_Practice_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn_sliders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="learn_sliders" />
+      <option name="MAIN_CLASS_NAME" value="learn_sliders.TestRentCalculatorSlider" />
+      <option name="METHOD_NAME" value="testRentCalculatorSlider" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -113,8 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Sharmin Zaman/IdeaProjects/Dummy_Sites_Practice_Framework/src/test/resources/TestUITesting.xml" />
+        <item itemvalue="TestNG.TestRentCalculatorSlider.testRentCalculatorSlider" />
+        <item itemvalue="TestNG.C:/Users/mehna/Dummy_Sites_Practice_Framework/src/test/resources/TestOrangeHRM.xml" />
         <item itemvalue="TestNG.C:/Users/Sharmin Zaman/IdeaProjects/Dummy_Sites_Practice_Framework/src/test/resources/TestRahulShetty.xml" />
+        <item itemvalue="TestNG.RahulShettyPracticePage.testPrices" />
+        <item itemvalue="Application.RahulShettyPracticePage" />
       </list>
     </recent_temporary>
   </component>
