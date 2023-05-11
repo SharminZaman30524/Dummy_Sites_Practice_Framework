@@ -18,7 +18,8 @@
 
     <test name="HomePage">
         <classes>
-            <class name="rahulshetty.TestInputCountry"></class>
+           <!-- <class name="rahulshetty.TestRSWebTables"></class>-->
+            <class name="rahulshetty.LearnDataProvider"></class>
         </classes>
 
     </test>

@@ -109,7 +109,7 @@ public class Common {
     @BeforeMethod
     public void setUp(@Optional("false") boolean useCloudEnv, @Optional("false") String cloudEnvName,
                       @Optional("windows") String os, @Optional("10") String os_version, @Optional("chrome-options") String browserName, @Optional("81")
-                      String browserVersion, @Optional("https://www.google.com") String url) throws IOException {
+                      String browserVersion, @Optional("https://www.apartments.com/") String url) throws IOException {
 
         if (useCloudEnv == true) {
             if (cloudEnvName.equalsIgnoreCase("browserstack")) {
@@ -123,7 +123,7 @@ public class Common {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         //driver.manage().timeouts().pageLoadTimeout(25, TimeUnit.SECONDS);
         driver.get(url);
-        //driver.manage().window().maximize();
+        driver.manage().window().maximize();
     }
 
     public WebDriver getLocalDriver(@Optional("mac") String OS, String browserName) {
